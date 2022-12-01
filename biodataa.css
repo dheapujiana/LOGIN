@@ -1,0 +1,14 @@
+body
+    h1 {font-family: 'Lucida Sans'; 
+        line-height: 1px; 
+        font-size: 30px; 
+        color:rgb(42, 4, 73);}
+    p {font-family: 'Times New Roman', Times, serif; font-size: 18px; color:black;}
+
+    body{
+        height: 100vh;
+        background-image: url(https://img.freepik.com/free-vector/abstract-background-with-squares_23-2148995948.jpg?size=626&ext=jpg&ga=GA1.2.462378373.1669889637);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
